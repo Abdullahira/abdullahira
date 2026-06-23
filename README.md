@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulla Al Noman</h1>
-<h3 align="center">Network Engineer | 6+ Years of Experience | Passionate About DevOps</h3>
+<h3 align="center">Network Engineer | 6+ Years of Experience |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahira&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahira" /> </p>
 
